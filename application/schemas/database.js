@@ -1,4 +1,5 @@
 ({
+  Database: {},
   name: 'example',
   description: 'Example database schema',
   version: 4,
